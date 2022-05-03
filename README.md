@@ -1,2 +1,3 @@
 # Real-state-development-planning
 A real estate developer, is planning to start a new project to build family homes. 
+He has access to historic data for the region in which he has acquired land for the project. The historic data includes the prices for houses sold in the area over a 10-year period. The data also includes information about the number of bedrooms in each house ranging from one to five rooms. I've nalysed the data for any trends that might be evident. He wants to know the optimal number of bedrooms to maximise the profit for the project. In other words, wants to know what the optimal amount of rooms per property should be to gain the highest profit. 
